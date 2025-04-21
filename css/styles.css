@@ -41,9 +41,16 @@ h1{
 
 
 .info_nba{
+    padding: 10px;
+    background-color: whitesmoke;
+    margin-top: 80px;
     text-align: center;
 }
+h2{
+    margin-top: 40px;
+}
 .exp{
+    margin-top: 40px;
     justify-content: center;
 }
 ul{
@@ -53,4 +60,40 @@ ul{
 li{
     font-size: 15px;
     margin-top: 8px;
+}
+
+.modelos{
+    margin-top: 50px;
+}
+
+.mod2{
+    height: 250px;
+    margin-right: 20px;
+
+}
+.mod1{
+    margin-right: 20px;
+}
+
+
+
+footer{
+    text-align: center;
+    font-size: 10px;
+    padding: 20px;
+}
+
+.boton2{
+    height: 30px;
+    width: 140px;
+    border: none;
+    background-color: rgb(251, 194, 17);
+    margin-top: 70px;
+
+}
+
+.logo2{
+    text-align: center;
+    margin-top: 80px;
+    width: 80px;
 }
