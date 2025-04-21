@@ -1,0 +1,56 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    padding: 30px;
+    background-color: whitesmoke;
+}
+.logo{
+    width: 100px;
+}
+.formulario{
+    text-align: right;
+}
+
+.contenedor{
+    text-align: center;
+    margin-top: 20px;
+    background-color: rgb(251, 194, 17);
+    height: 1200px;
+}
+.img2{
+    margin-top: none;
+    width: 1000px;
+}
+
+
+.sorteo{
+    text-align: left;
+    margin-left: 100px;
+}
+h1{
+    font-size: 60px;
+}
+
+.subH1{
+    font-size: 20px;
+}
+
+
+
+
+.info_nba{
+    text-align: center;
+}
+.exp{
+    justify-content: center;
+}
+ul{
+    list-style: none;
+
+}
+li{
+    font-size: 15px;
+    margin-top: 8px;
+}
